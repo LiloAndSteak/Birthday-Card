@@ -1,0 +1,46 @@
+/* This is the CSS file for the Birthday page. */
+
+/*The background image*/
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://lh3.googleusercontent.com/pw/AP1GczPK4fElzXqnAq9rqQLL_v2UxCl7xxGLTAHQ9hjZwEb8Qinlgh2QB3DlPRbow7LWaEj_zg6WuRlZoxwHE5vvVAOp_tjoSTL647uauSdEEGkvRDhxXw=w2400);
+    background-position: center;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+    position: relative;
+}
+h1 {
+    text-align: center;
+    color: #000000;
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+/*The container of the card*/
+.card {
+    width: 80%;
+    background-color: #96C0B7;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 30px;
+    max-width: 500px;
+}
+p {
+    font-size: 16px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+/*Container for images*/
+.row1 img{
+    .container img {
+        float: center;
+        text-align: center;
+}
+
